@@ -32,8 +32,11 @@ Bug Report: But why...feels clunky.
 
 Feature: Clicking previous numbers to see previous questions
       As a Columbia Student,
-      I can click on the n 
-      So that I can get a general perception for how Columbia students/users feel on a topic.
+      I can click on the previous numbers at the bottom
+      So that I can see other closed polls from other weeks.
+
+  Bug Report: Again, but why?  1 question per each number? And the number doesn't help me know what question it was
+              and it feels clunky again.
 
 Feature: Seeing results on polls page
         As a interested data miner,
