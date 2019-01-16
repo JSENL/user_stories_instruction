@@ -1,0 +1,12 @@
+Google Search Terms: sass with react js tutorial
+link: https://www.google.com/search?source=hp&ei=gyY-XPS0GsiyggfF6Z-YDA&q=sass+with+react+js+tutorial&btnK=Google+Search&oq=sass+with+react+js+tutorial&gs_l=psy-ab.3..0i22i30.391.5579..5872...3.0..0.167.3052.11j17......0....1..gws-wiz.....0..0i131j0j35i39j0i10.s2VCwuwG_lA
+
+Site: Sass Styles In Reactjs application
+link: https://appdividend.com/2018/01/12/sass-styles-reactjs-application/
+
+ Website will show how we can use the SCSS files in the create-react-app.
+
+Step 1: Install Create-react-app (use this website https://github.com/facebook/create-react-app ) IMPORTANT Scroll below to find overview to create the app.
+Step 2: Review the ReactJS tutorial for beginners at website https://appdividend.com/2017/08/22/reactjs-tutorial-beginners-2017/
+Step 3: Write why this is important? What's the purpose of why the user would do this? What's the result?
+Step 4: Finish the story and come back to it 5-10 minutes later, ask yourself is it specific? Who is this for? Would you like to make it more clear?  If so, rewrite it as such.
