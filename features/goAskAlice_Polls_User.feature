@@ -1,10 +1,10 @@
 Feature: Voting on the User Poll
   As an interested user who has free time
-  I can vote on a poll question on GoAskAlice
+  I can vote on a poll question
   So that I can share my opinion but not get involved in lenghty discussions/arguments online.
 
   Feature: Parents seeing if the other Students are normal
-    As a parent making a decision about my childreng going to Columbia University,
+    As a parent making a decision about my children going to Columbia University,
     I can see results of a poll question
     So that I can get a better feel of the environment and issues of the campus.
 
@@ -24,9 +24,9 @@ Feature: Voting on polls page
   So my opinion is included in the poll results.
 
   Feature: Researcher uses polls for own research
-    As an health/medical researcher,
+    As a researcher,
     I can ask a question to GoAskAlice
-    So that I can get a primary data for a research paper.
+    So that I can get primary data.
 
 Feature: Seeing results on polls page
   As a Columbia Student with an interest in health issues,
@@ -35,7 +35,7 @@ Feature: Seeing results on polls page
 
   Feature: Clicking previous numbers to see previous questions
   As a Columbia Student interested in a career of social media,
-  I can see the participation rate in previous polls numbers
+  I can see the participation rate in previous polls
   So that I can gauge what topics people are interested in discussing.
 
 Feature: Using the quizzes toolbar tab
