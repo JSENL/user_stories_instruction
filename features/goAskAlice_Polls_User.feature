@@ -24,7 +24,7 @@ Feature: Isolated student can feel more acceptance
   So that I can feel like I am not the only one with a 'problem'
 
 
-Feature: Results tab on Polls
+Feature: Not in the know students can get honest answers
   As student/user at Columbia University who's parents have sheltered them from the world
   I can look at questions my parents would not talk to me about
   So that I can get honest answers instead of listening/making up myths.
@@ -36,10 +36,10 @@ Feature: Seeing results on polls page
 
   /** Bug Report: From the home page, when you click on the link, you see a View/Results tab option. However if you use the toolbar to get to the polls, that feature is missing. */
 
-Feature: Voting on polls page
+Feature: Use polls for own research
   As an health/medical grad Student,
   I can ask a question to GoAskAlice
-  So that I can get a small set of data for a report.
+  So that I can get a small set of data for a research paper.
 
 
 Feature: Seeing results on polls page
