@@ -17,10 +17,10 @@ Feature: Voting on the User Poll anonymously
   I can vote on a poll question on GoAskAlice
   So that I can avoid the lengthy debates/arguments from forums.
 
-  Feature: Isolated student can feel more acceptance
-    As an isolated student/user at Columbia University,
+  Feature: Parents seeing if the other Students are normal
+    As a parent making a decision about my childreng going to Columbia University,
     I can see results of a poll question
-    So that I can feel like I am not the only one with a 'problem'
+    So that I can get a better feel of the environment and issues of the campus.
 
 Feature: Get more interest or debate poll
   As an interested student/user at Columbia University
@@ -36,14 +36,14 @@ Feature: Seeing results on polls page
    However if you use the toolbar to get to the polls, that feature is missing. */
 
 Feature: Voting on polls page
-  As an anonymous visitor,
+  As an anonymous student,
   I can choose an answer from several options
   So my opinion is included in the poll results.
 
   Feature: Student uses polls for own research
     As an health/medical Student,
     I can ask a question to GoAskAlice
-    So that I can get a small set of data for a research paper.
+    So that I can get a primary data for a research paper.
 
 Feature: Seeing results on polls page and expressing opinion
   As a Columbia Student with an interest in health issues,
@@ -51,21 +51,21 @@ Feature: Seeing results on polls page and expressing opinion
   So that I can see how other polls were concluded and see if they match my beliefs.
 
   Feature: Clicking previous numbers to see previous questions
-  As a Columbia Student,
-  I can click on the previous numbers at the bottom
-  So that I can see other closed polls from other weeks.
+  As a Columbia Student interested in a career of social media,
+  I can see the amount of participation in previous polls numbers
+  So that I can see gauge what topics people are interested in discussing.
 
   /** Bug Report: Again, but why?  1 question per each number? And the number doesn't help me know what question it was, and it feels clunky again. */
 
-Feature: Seeing results on polls page
+Feature: Data Miner seeing results on polls page
   As a interested data miner,
   I can see the results of multiple questions answered
   So that I can get a general perception for how Columbia students/users feel on a topic.
 
-Feature: Seeing results on polls page
-  As a interested data miner,
-  I can see the results of multiple questions answered
-  So that I can get a general perception for how Columbia students/users feel on a topic.
+Feature: Not seeing a question that feels relevant
+  As a Columbia Student that wants a question answered that I haven't seen anywhere
+  I can click the ask the question button
+  So that I can ask that question and see where others around are feeling.
 
   Feature: Student uses polls for own research
     As an health/medical Student,
