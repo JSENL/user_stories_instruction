@@ -1,8 +1,8 @@
 /** discussion **
  * 1st general comment from Kay:
  *   Many of these stories are very useful and clearly written. Nice work!
- *   Others need revision. I've commented on 2 of the latter. The comments apply to others. Mind doing another iteration?
- *   The most persistent concern is with requirements (2nd line) that are too generic or simply missing. It seems you use the word 'click' often in that line, and users probably don't care that the software lets them click; users are there to do more useful things. Name users' requirements vs the mechanics of the current implementation.
+ *   Others need revision. I've commented on 2 that need more attention. The comments apply to others. Mind doing another iteration?
+ *   The most persistent concern is with requirements (2nd line) that are too generic, or simply not described. It seems you use the word 'click' often in that line, and users probably don't care that the software lets them click; users are there to do more useful things. Describe users' requirements vs the mechanics of the current implementation.
  *   Nice job on spotting and reporting bugs! When you get the chance, please add screenshots (including the whole screen is best).
  */
 
