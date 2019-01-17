@@ -18,7 +18,6 @@ Feature: Data analyst reviewing results on polls page
   I can see the results of multiple questions answered
   So that I can think of ways to market to users on a topic.
 
-
 Feature: Voting on polls page
   As a User,
   I can choose an answer from several options
@@ -29,41 +28,37 @@ Feature: Voting on polls page
     I can ask a question to GoAskAlice
     So that I can get a primary data for a research paper.
 
-Feature: Seeing results on polls page and expressing opinion
+Feature: Seeing results on polls page
   As a Columbia Student with an interest in health issues,
   I can click on the other questions at the bottom of the page
-  So that I can see how other polls were concluded and see if they match my beliefs.
+  So that I can see how other polls were concluded and see if they match.
 
   Feature: Clicking previous numbers to see previous questions
   As a Columbia Student interested in a career of social media,
-  I can see the amount of participation in previous polls numbers
-  So that I can see gauge what topics people are interested in discussing.
+  I can see the participation rate in previous polls numbers
+  So that I can gauge what topics people are interested in discussing.
 
-  /** Bug Report: Again, but why?  1 question per each number? And the number doesn't help me know what question it was, and it feels clunky again. */
-
-Feature: Data Miner seeing results on polls page
-  As a interested data miner,
-  I can see the results of multiple questions answered
-  So that I can get a general perception for how Columbia students/users feel on a topic.
+Feature: Using the quizzes toolbar tab
+  As a user with a specific amount of time,
+  I can use the quizzes button on the toolbar,
+  So that I can decide on whether to pick a quiz or a poll .
 
 Feature: Not seeing a question that feels relevant
   As a Columbia Student that wants a question answered that I haven't seen anywhere
   I can click the ask the question button
-  So that I can ask that question and see where others around are feeling.
+  So that I can ask that question and see how others around are feeling.
 
-  Feature: Student uses polls for own research
-    As an health/medical Student,
-    I can ask a question to GoAskAlice
-    So that I can get a small set of data for a research paper.
+  Feature: Taking weekly poll from home page
+    As a user with a small amount of time
+    I can vote on the poll on the homepage
+    So that I can vote and see the results.
 
-  Feature: Isolated student can feel more acceptance
-      As an isolated student/user at Columbia University,
-      I can see results of a poll question
-      So that I can feel like I am not the only one with a 'problem'
+  Feature: No registration polltaker
+  As a polltaker who doesn't need to register to answer questions,
+  I can vote on whatever answer that interests me most,
+  So that I do not have to go through a registration process.
 
-As a polltaker,
-I can register my answer anonymously
-So that I know I'm being tracked.
+
 
 
       /** discussion **
@@ -80,3 +75,5 @@ So that I know I'm being tracked.
         */
         /** Bug Report: From the home page, when you click on the link, you see a View/Results tab option.
          However if you use the toolbar to get to the polls, that feature is missing. */
+
+           /** Bug Report: Again, but why?  1 question per each number? And the number doesn't help me know what question it was, and it feels clunky again. */
