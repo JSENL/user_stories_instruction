@@ -1,7 +1,13 @@
 Feature: Voting on the User Poll
+<<<<<<< HEAD
+  As a user who has free time
+  I can vote on a poll question
+  So that I can share my opinion but not get involved in lengthy discussions/arguments online.
+=======
   As an interested user who has free time
   I can vote on a poll question
-  So that I can share my opinion but not get involved in lenghty discussions/arguments online.
+  So that I can share my opinion but not get involved in lengthy discussions/arguments online.
+>>>>>>> 1cb43a736d4788ee564d295acf3e56abf1a9b34c
 
   Feature: Parents seeing if the other Students are normal
     As a parent making a decision about my children going to Columbia University,
@@ -14,7 +20,11 @@ Feature: Social Media to get more interest
   So that others can discover the poll.
 
 Feature: Data analyst reviewing results on polls page
+<<<<<<< HEAD
+  As an data analyst,
+=======
   As an interested data analyst,
+>>>>>>> 1cb43a736d4788ee564d295acf3e56abf1a9b34c
   I can see the results of multiple questions answered
   So that I can think of ways to market to users on a topic.
 
