@@ -1,3 +1,9 @@
+/**
+ * discussion: 2nd comment from Kay:
+ * Looks like there was a merge conflict. Let's discuss how to avoid these, and
+ * how to fix them.
+ * /
+
 Feature: Voting on the User Poll
 <<<<<<< HEAD
   As a user who has free time
@@ -67,23 +73,3 @@ Feature: Not seeing a question that feels relevant
   As a polltaker who doesn't need to register to answer questions,
   I can vote on whatever answer that interests me most,
   So that I do not have to go through a registration process.
-
-
-
-
-      /** discussion **
-       * 1st general comment from Kay:
-       *   Many of these stories are very useful and clearly written. Nice work!
-       *   Others need revision. I've commented on 2 that need more attention. The comments apply to others. Mind doing another iteration?
-       *   The most persistent concern is with requirements (2nd line) that are too generic, or simply not described.
-       *   It seems you use the word 'click' often in that line, and users probably don't care that the software lets them click; users are there to do more useful things. Describe users' requirements vs the mechanics of the current implementation.
-       *   Nice job on spotting and reporting bugs! When you get the chance, please add screenshots (including the whole screen is best).
-       /** discussion **
-        * 1st comment from Kay: Needs revision. I'm not sure the benefit you describe is one visitors would typically require
-        (reads roughly like "please take me elsewhere"... calgon? [grin] ). Without understanding the reason, I'm not sure the rest makes sense.
-        Also, can you shorten and clarify the Feature name?
-        */
-        /** Bug Report: From the home page, when you click on the link, you see a View/Results tab option.
-         However if you use the toolbar to get to the polls, that feature is missing. */
-
-           /** Bug Report: Again, but why?  1 question per each number? And the number doesn't help me know what question it was, and it feels clunky again. */

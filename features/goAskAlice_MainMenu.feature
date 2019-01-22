@@ -1,3 +1,16 @@
+/**
+ * discussion: 1st comment from Kay:
+ * Looks like stories are talking about content of menus instead of features.
+ * User stories about menus should be limited to the behaviors and layout; please
+ * ignore the actual menu item names. Behaviors are different on narrow displays
+ * (e.g. mobile phones) from those on wide displays. The stories need to capture
+ * these differences.
+ * For referring to the different menus themselves, let's use the following:
+ * - Main menu (on top on wide displays)
+ * - Secondary menu (in sidebar on wide displays)
+ * - Tertiary menu (in footer on wide displays)
+ */
+
 As a student who has likes to party,
 I can look at the Alcohol & Other Drugs tab,
 So that I can see what are the after or side effects of its usage.
