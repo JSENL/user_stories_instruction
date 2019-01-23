@@ -16,10 +16,18 @@ As a student who is clicked on the Main menu,
 I can hit the home icon underneath the main menu,
 So that I can go back to the main page.
 
-Feature:
+Feature: Category Menu feature
 As an interested student about health issues,
-I can look at the health answers button on the toolbar
+I can look at the health answers button on the secondary menu
 So that I can choose an available subject for me to use/read.
+
+Feature: Mobile vs Laptop/Computer
+As a user on my mobile phone,
+I can click on the menu option,
+So that the Menu choices pull down and select my choices.
+
+
+
 
 Feature:
 As a user interested in learning more about masturbation,
