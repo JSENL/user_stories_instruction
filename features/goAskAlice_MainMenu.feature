@@ -24,15 +24,16 @@ So that I can choose an available subject for me to use/read.
 Feature: Mobile vs Laptop/Computer
 As a user on my mobile phone,
 I can click on the menu option,
-So that the Menu choices pull down and select my choices.
+So that the Menu choices pull down.
+
+Feature: Main Menu Grey Bar
+As a user after going to a specific link on the main menu,
+I can use the grey menu feature,
+So that I can go to the previous level.
 
 
 
 
-Feature:
-As a user interested in learning more about masturbation,
-I can use type the word into the search bar on the top right corner
-So that I can find only stories or info about that topic.
 
 Feature:
 As an oncampus student who has a friend who overdosed,
